@@ -7,8 +7,7 @@ export const Home = () => {
       {/* Theme Toggle */}
         <ThemeToggle />
       {/* Background Effects */}
-      <StarBackground />
-
+        <StarBackground />
       {/* Navbar */}
 
       {/* Main Content */}
@@ -16,6 +15,7 @@ export const Home = () => {
 
 
       {/* Footer */}
+        
     </div>
   );
 };
